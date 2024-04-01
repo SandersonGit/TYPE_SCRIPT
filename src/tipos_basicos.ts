@@ -26,7 +26,6 @@ const tecnologias: Array<string> = ["html", "css", "js"];
 
 const notas: ReadonlyArray<number> = [7, 9, 5, 8];
 
-tecnologias.push("typeScript");
 
 const lista: [nome: string, estudante: boolean, idade: number] = ["sanderson", true, 35];
 
